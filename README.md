@@ -4,6 +4,11 @@
 
 AI-DayPlanner is an intelligent task management tool designed to help users efficiently plan their daily activities. By leveraging artificial intelligence, the application aims to optimize your schedule based on your preferences and priorities, ensuring that you make the most of your time.
 
+## Team Members
+Akash Madisetty - PES1UG23AM035
+Archita Jain - PES1UG23AM063
+Manogna B V - PES1UG24CS399 
+
 ## Features
 
 - **Smart Scheduling**: Automatically suggests the best times for tasks based on your availability and deadlines.
