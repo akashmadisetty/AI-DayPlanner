@@ -38,3 +38,8 @@ To set up AI-DayPlanner on your local machine, follow these steps:
     pip install python-dotenv
     ```
 
+4. **Create Groq account and add the Groq api key in .env file**
+    ```bash
+    GROQ_API_KEY="YOUR_API_KEY"
+    #Replace here with your groq api key
+    ```
